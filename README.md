@@ -1,2 +1,2 @@
 # NewsWebsite.github.io
-The Project is made with the aim of providing news of different system. 
+This is a Dynamic Website which provides information about different fields such as IPL, Finance, and Politics.
